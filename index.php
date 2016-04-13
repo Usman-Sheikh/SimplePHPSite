@@ -1,4 +1,4 @@
 <?php
 
-echo "Deployed with GitHub" 
+echo "vnext site with GitHub" 
 ?>
